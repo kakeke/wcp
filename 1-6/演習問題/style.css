@@ -1,0 +1,52 @@
+{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+main{
+	width:840px;
+	margin:50px auto;
+}
+.main-visual{
+	height: 400px;
+	width: 100%;
+	background-image: url(img/mv.jpg);
+	background-size: cover;
+	background-position: bottom ;
+}
+.headline{
+	color: gray;
+	padding-left: 20px;
+	padding-top: 20px;
+}
+.main-visual1{
+	color: gray;
+	width: 840px;
+	margin-top: 30px;
+	padding-bottom: 30px;
+	border-bottom: 1px solid gray;
+}
+.main-visual2{
+	color: gray;
+	width: 840px;
+	margin-top: 30px;
+	padding-bottom: 30px;
+	border-bottom: 1px solid gray;
+}
+.main-visual3{
+	color: gray;
+	width: 840px;
+	margin-top: 30px;
+	padding-bottom: 30px;
+	border-bottom: 1px solid gray;
+}
+.main-visual4{
+	color: gray;
+	width: 840px;
+    margin-top: 30px;
+	padding-bottom: 30px;
+    border-bottom: 1px solid gray;
+}
+a{
+	color: gray;
+}
