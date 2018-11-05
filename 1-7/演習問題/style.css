@@ -1,0 +1,68 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.rist-box{
+	width: 960px;
+	margin: 50px auto;
+}
+.rist-name{
+	padding: 20px;
+	color: gray;
+}
+.rist1{
+	background-color: #EEEEEE;
+}
+.rist2{
+	background-color: white;
+}
+.color-box{
+	width: 960px;
+	height: 680px;
+	margin: 0 auto 50px;
+}
+.orange{
+	width: 30%;
+	height:200px;
+	background-color: #ff6600;
+}
+.yellow{
+	width: 30%;
+	height:200px;
+	background-color: yellow;
+}
+.box1{
+	margin-bottom: 40px;
+	float: left;
+}
+.box2{
+	margin:0 5% 40px;
+	float: left;
+}
+.box3{
+	margin-bottom: 40px;
+	float: left;
+}
+.box4{
+	margin-bottom: 40px;
+	float: left;
+}
+.box5{
+	margin:0 5% 40px;
+	float: left;
+}
+.box6{
+	margin-bottom: 40px;
+	float: left;
+}
+.box7{
+	float: left;
+}
+.box8{
+	margin: 0 5% ;
+	float: left;
+}
+.box9{
+	float: left;
+}
