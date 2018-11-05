@@ -47,3 +47,23 @@ main{
 p, h3{
 	color: gray;
 }
+@media screen and (max-width:425px){
+	.clearfix{
+		width: 90%;
+		padding: 0;
+		border-bottom: none;
+	}
+	.contents-box{
+		width: 90%;
+		float: none;
+		margin:0 auto 20px;
+	}
+	.contents-box2{
+		width: 90%;
+		float: none;
+		margin: auto;
+	}
+	.image{
+		width: 90%;
+	}
+}
